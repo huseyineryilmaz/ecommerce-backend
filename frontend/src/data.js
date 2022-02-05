@@ -18,8 +18,8 @@ const data = {
             image: '/images/p1.jpg',
             price: 354,
             brand: 'Lemon',
-            rating: 4.5,
-            numReviews: 23,
+            rating: 3.5,
+            numReviews: 76,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -29,8 +29,8 @@ const data = {
             image: '/images/p1.jpg',
             price: 586,
             brand: 'Lemon',
-            rating: 4.5,
-            numReviews: 23,
+            rating: 2.5,
+            numReviews: 54,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -41,7 +41,7 @@ const data = {
             price: 652,
             brand: 'Lemon',
             rating: 4.5,
-            numReviews: 23,
+            numReviews: 13,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -51,7 +51,7 @@ const data = {
             image: '/images/p1.jpg',
             price: 145,
             brand: 'Lemon',
-            rating: 4.5,
+            rating: 4,
             numReviews: 23,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
@@ -62,8 +62,8 @@ const data = {
             image: '/images/p1.jpg',
             price: 185,
             brand: 'Lemon',
-            rating: 4.5,
-            numReviews: 23,
+            rating: 3,
+            numReviews: 36,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
     ]
