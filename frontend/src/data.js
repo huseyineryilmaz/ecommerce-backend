@@ -9,6 +9,7 @@ const data = {
             brand: 'Lemon',
             rating: 4.5,
             numReviews: 23,
+            countInStock: 10,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -20,6 +21,7 @@ const data = {
             brand: 'Lemon',
             rating: 3.5,
             numReviews: 76,
+            countInStock: 10,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -31,7 +33,8 @@ const data = {
             brand: 'Lemon',
             rating: 2.5,
             numReviews: 54,
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
+            countInStock: 10,
+            description: 'Lorem ipsum dolor sit amet.'
         },
         {
             _id: '4',
@@ -42,6 +45,7 @@ const data = {
             brand: 'Lemon',
             rating: 4.5,
             numReviews: 13,
+            countInStock: 10,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -53,6 +57,7 @@ const data = {
             brand: 'Lemon',
             rating: 4,
             numReviews: 23,
+            countInStock: 10,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
         {
@@ -64,6 +69,7 @@ const data = {
             brand: 'Lemon',
             rating: 3,
             numReviews: 36,
+            countInStock: 10,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
         },
     ]
