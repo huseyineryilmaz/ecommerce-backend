@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-ecommerce",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js",
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huseyineryilmaz/fullstack-ecommerce.git"
+  },
+  "author": "Huseyin Eryilmaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huseyineryilmaz/fullstack-ecommerce/issues"
+  },
+  "homepage": "https://github.com/huseyineryilmaz/fullstack-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.15"
+  }
+}
