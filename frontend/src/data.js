@@ -71,8 +71,8 @@ const data = {
             numReviews: 36,
             countInStock: 10,
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula dui eget tortor fringilla tristique. Proin aliquet libero ac tellus hendrerit ultricies.'
-        },
+        }
     ]
-}
+};
 
 export default data;

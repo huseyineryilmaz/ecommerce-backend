@@ -1,14 +1,14 @@
 import React from 'react';
-import { Link, useParams } from 'react-router-dom';
+import {Link, useParams} from 'react-router-dom';
 import Rating from '../components/Rating';
 import data from '../data';
 
 
 export default function ProductScreen() {
-    const { id } = useParams();
-    const product = data.products.find(x => x._id === id)
+    const {id} = useParams();
+    const product = data.products.find((x) => x._id === id);
     if (!product) {
-        return <div> Product Not Found </div>
+        return <div> Product Not Found </div>;
     }
     return (
         <div>
