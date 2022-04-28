@@ -1,5 +1,6 @@
 /.vscode
-/node_modules
+/backend/node_modules
 package-lock.json
 .eslintrc.json
-/frondend/package-lock.json
+/frontend/node_modules
+/frontend/package-lock.json
